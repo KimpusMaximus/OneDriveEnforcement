@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>DisablePersonalSync</key>
+    <true/>
+    <key>DisableTutorial</key>
+    <true/>
+    <key>OpenAtLogin</key>
+    <true/>
+    <key>FilesOnDemandEnabled</key>
+    <true/>
+    <key>EnableODIgnore</key>
+    <array>
+      <string>*.url</string>
+      <string>*.link</string>
+      <string>*.pst</string>
+    </array>
+    <key>BlockExternalSync</key>
+    <false/>
+    <key>AllowTenantList</key>
+    <dict>
+      <key>tenantidxxxxxxx</key>
+      <true/>
+    </dict>
+  </dict>
+</plist>
